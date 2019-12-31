@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominoes.Core", "src\Dominoes.Core\Dominoes.Core.csproj", "{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D4727D27-468A-402F-A825-4482061E7603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|x64.Build.0 = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Debug|x86.Build.0 = Debug|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|x64.ActiveCfg = Release|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|x64.Build.0 = Release|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|x86.ActiveCfg = Release|Any CPU
+		{F43BBFE3-03E3-4481-9A3B-BF41C94A4903}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA79A6E-F5BC-46DE-A52B-F48AE1704120}
+	EndGlobalSection
+EndGlobal
